@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blinstrike
 - 👀 I’m interested in Programming and Robotics
 - 🌱 I’m currently learning Python, C++;
-- 💞️ I’m looking to collaborate on ...
+- Participating in SEC 2026 with team VentureX as team leader
 - 📫 How to reach me ...
 
 <!---
